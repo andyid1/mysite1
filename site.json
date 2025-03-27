@@ -73,26 +73,6 @@
         "images": [],
         "videos": []
       }
-    },
-    {
-      "id": "item-685036cc-7f71-4ae4-808e-9513059c0108",
-      "indent": 0,
-      "location": "pages/item-685036cc-7f71-4ae4-808e-9513059c0108/index.html",
-      "slug": "welcome-to-mysite1-copy/page-copy",
-      "order": 3,
-      "parent": null,
-      "title": "Page Copydfsafsdafdsa",
-      "description": "fdasfdsafdsa\nfdasfdsafdsa\nfdasfdsafdsa\nfdasfdsafdsa\nfdasfdsafdsa\n\n",
-      "metadata": {
-        "created": 1743048331,
-        "updated": 1743048347,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1
-      }
     }
   ]
 }
