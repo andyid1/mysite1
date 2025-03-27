@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743046117,
-      "updated": 1743046430,
+      "updated": 1743049117,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,35 +69,39 @@
       "description": "Selamat belajar untuk Hidup sehat, mental dan badan.\nMelihat kadar gulaMelihat lemakMelihat kadar garam\nSelamat belajar untuk Hidup sehat, mental dan badan.Apa itu sehat?Hidup untuk lebih sehat, hala",
       "metadata": {
         "created": 1743048330,
-        "updated": 1743049005,
+        "updated": 1743049117,
         "images": {},
         "videos": {},
         "published": true,
         "pageType": "activity",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": "",
+        "icon": "hax:ticket"
       }
     },
     {
       "id": "item-75d28990-c675-4662-8362-fd2815d164a9",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-75d28990-c675-4662-8362-fd2815d164a9/index.html",
       "slug": "page",
-      "order": 1,
-      "parent": null,
+      "order": 0,
+      "parent": "item-a1cd0b09-62ec-411b-af08-20ffef7f60d3",
       "title": "Hewan Halal dimakan",
       "description": "\nPerselisihan Ulama\n\nPara\n ulama madzhab memiliki silang pendapat dalam masalah hewan yang hidup \ndi dua alam (air dan darat). Rinciannya sebagai berikut.\nUlama Syafi&#8217;iyah: Membolehkan secara m",
       "metadata": {
         "created": 1743049018,
-        "updated": 1743049103,
+        "updated": 1743049117,
         "images": {},
         "videos": {},
         "published": true,
         "pageType": "assessment",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": "",
+        "icon": "lrn:assessment"
       }
     }
   ]
