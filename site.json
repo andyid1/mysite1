@@ -86,13 +86,18 @@
       "slug": "page",
       "order": 1,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Hewan Halal dimakan",
+      "description": "\nPerselisihan Ulama\n\nPara\n ulama madzhab memiliki silang pendapat dalam masalah hewan yang hidup \ndi dua alam (air dan darat). Rinciannya sebagai berikut.\nUlama Syafi&#8217;iyah: Membolehkan secara m",
       "metadata": {
         "created": 1743049018,
-        "updated": 1743049018,
-        "images": [],
-        "videos": []
+        "updated": 1743049103,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "assessment",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
