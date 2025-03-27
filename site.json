@@ -111,13 +111,13 @@
       "slug": "page-1",
       "order": 1,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Sehat Thoiyibah",
+      "description": "\n\n\n",
       "metadata": {
         "created": 1743049307,
-        "updated": 1743049307,
-        "images": [],
-        "videos": [],
+        "updated": 1743049412,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "/home/andyid1/mysite1/files/Teh-tawar-manis-600x600.jpg",
@@ -127,7 +127,11 @@
             "name": "Teh-tawar-manis-600x600.jpg",
             "size": 51880
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
