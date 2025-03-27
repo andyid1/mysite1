@@ -78,6 +78,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-75d28990-c675-4662-8362-fd2815d164a9",
+      "indent": 0,
+      "location": "pages/item-75d28990-c675-4662-8362-fd2815d164a9/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1743049018,
+        "updated": 1743049018,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
