@@ -49,10 +49,10 @@
       "order": 0,
       "parent": null,
       "title": "Welcome to mysite1",
-      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\n\n\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a",
+      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWhat can I do?\n\n\n\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much i",
       "metadata": {
         "created": 1743046117,
-        "updated": 1743046336,
+        "updated": 1743046414,
         "published": true,
         "hideInMenu": false,
         "locked": false,
