@@ -79,28 +79,12 @@
       }
     },
     {
-      "id": "item-96efe76b-5077-468a-82d8-79f756fd0ec9",
-      "indent": 0,
-      "location": "pages/item-96efe76b-5077-468a-82d8-79f756fd0ec9/index.html",
-      "slug": "welcome-to-mysite1-copy",
-      "order": 1,
-      "parent": null,
-      "title": "Welcome to mysite1 Copy",
-      "description": "",
-      "metadata": {
-        "created": 1743048329,
-        "updated": 1743048329,
-        "images": [],
-        "videos": []
-      }
-    },
-    {
       "id": "item-a1cd0b09-62ec-411b-af08-20ffef7f60d3",
       "indent": 0,
       "location": "pages/item-a1cd0b09-62ec-411b-af08-20ffef7f60d3/index.html",
       "slug": "welcome-to-mysite1-copy/page",
-      "order": 0,
-      "parent": "item-96efe76b-5077-468a-82d8-79f756fd0ec9",
+      "order": 2,
+      "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
@@ -115,8 +99,8 @@
       "indent": 0,
       "location": "pages/item-685036cc-7f71-4ae4-808e-9513059c0108/index.html",
       "slug": "welcome-to-mysite1-copy/page-copy",
-      "order": 1,
-      "parent": "item-96efe76b-5077-468a-82d8-79f756fd0ec9",
+      "order": 3,
+      "parent": null,
       "title": "Page Copydfsafsdafdsa",
       "description": "fdasfdsafdsa\nfdasfdsafdsa\nfdasfdsafdsa\nfdasfdsafdsa\nfdasfdsafdsa\n\n",
       "metadata": {
