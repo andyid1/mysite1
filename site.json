@@ -93,6 +93,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-a1cd0b09-62ec-411b-af08-20ffef7f60d3",
+      "indent": 0,
+      "location": "pages/item-a1cd0b09-62ec-411b-af08-20ffef7f60d3/index.html",
+      "slug": "welcome-to-mysite1-copy/page",
+      "order": 0,
+      "parent": "item-96efe76b-5077-468a-82d8-79f756fd0ec9",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1743048330,
+        "updated": 1743048330,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
