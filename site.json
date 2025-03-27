@@ -103,6 +103,22 @@
         "status": "",
         "icon": "lrn:assessment"
       }
+    },
+    {
+      "id": "item-682c49c7-9420-48ee-a4b4-472f5f3c8ba1",
+      "indent": 0,
+      "location": "pages/item-682c49c7-9420-48ee-a4b4-472f5f3c8ba1/index.html",
+      "slug": "page-1",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1743049307,
+        "updated": 1743049307,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
